@@ -46,8 +46,8 @@ A modern, full-stack web application for writing, compiling, and running Java co
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/joemrnice/java-code-editor.git
-$ cd java-code-editor
+$ git clone https://github.com/joemrnice/java-code-editor-v2.git
+$ cd java-code-editor-v2
 
 # Install server dependencies
 $ cd server && npm install
@@ -73,7 +73,7 @@ Visit [http://localhost:5173](http://localhost:5173) to use the editor.
 ## 📁 Project Structure
 
 ```
-java-code-editor/
+java-code-editor-v2/
 ├── server/         # Express backend for Java code execution
 │   ├── app.js
 │   ├── routes/
